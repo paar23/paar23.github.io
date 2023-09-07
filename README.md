@@ -1,4 +1,4 @@
 # Proyecto MEOWTEC
-## Pagina Web "CATCAREHUB" o "PETCAREHUB"
+## Pagina Web "CatCareHub" o "PetCareHub"
 
 Link: paar23.github.io
